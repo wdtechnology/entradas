@@ -3,4 +3,4 @@
 <p> Obrigado 2017 </p>
 <a href="https://pag.ae/bdmHtqs
 "><img src="https://stc.pagseguro.uol.com.br/pagseguro/i/logos/logo_pagseguro244x50.png" alt="PagSeguro UOL">
-<h1> Williams dantas Queiroga</h1>
+<h1> Williams Dantas Queiroga</h1>
